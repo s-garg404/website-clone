@@ -5,7 +5,7 @@ const cardsData = [
     title: "NeuroNotes",
     description:
       "NeuroNotes uses AI to convert your handwritten notes into organized digital summaries. Perfect for students, researchers, or anyone looking to streamline learning.",
-    link: "https://github.com/kandisaagarwal"
+    link: "https://github.com/s-garg404"
     },
   {
     id: 2,
@@ -13,7 +13,7 @@ const cardsData = [
     title: "PixelQuest",
     description:
       "PixelQuest is a gamified learning platform where players solve coding challenges to unlock new levels and digital collectibles. Learning and fun combined!",
-    link: "https://github.com/kandisaagarwal"
+    link: "https://github.com/s-garg404"
 },
   {
     id: 3,
@@ -21,7 +21,7 @@ const cardsData = [
     title: "SoundScape",
     description:
       "SoundScape generates AI-powered ambient music for focus, relaxation, or sleep. Users can customize moods, instruments, and tempo for a personal sound experience.",
-    link: "https://github.com/kandisaagarwal"
+    link: "https://github.com/s-garg404"
 
     },
   {
@@ -30,7 +30,7 @@ const cardsData = [
     title: "PixelQuest",
     description:
       "PixelQuest is a gamified learning platform where players solve coding challenges to unlock new levels and digital collectibles. Learning and fun combined!",
-    link: "https://github.com/kandisaagarwal"
+    link: "https://github.com/s-garg404"
 },
 
   {
@@ -39,7 +39,7 @@ const cardsData = [
     title: "SoundScape",
     description:
       "SoundScape generates AI-powered ambient music for focus, relaxation, or sleep. Users can customize moods, instruments, and tempo for a personal sound experience.",
-    link: "https://github.com/kandisaagarwal"
+    link: "https://github.com/s-garg404"
 
     },
   {
@@ -48,7 +48,7 @@ const cardsData = [
     title: "NeuroNotes",
     description:
       "NeuroNotes uses AI to convert your handwritten notes into organized digital summaries. Perfect for students, researchers, or anyone looking to streamline learning.",
-    link: "https://github.com/kandisaagarwal"
+    link: "https://github.com/s-garg404"
     },
     
 ];
